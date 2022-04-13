@@ -80,6 +80,12 @@ ul, form {
   padding: 0.15rem;
 }
 
+.todo.completed {
+  padding: 0.15rem;
+  text-decoration: line-through;
+}
+
+
 .todo:hover {
   cursor: pointer;
 }
